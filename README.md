@@ -6,7 +6,7 @@ a ideia é que ela cadaster o Email, Senha e a data de criação dos dados.
 
 ## Para usar você deve fazer a requisição post na rota /auth/register,
 mandando como registro o Email e a Senha, lembrando que para funcionar o CMD deve estar aberto rodando o "mongod",
-na porta padrão 27017 nesse caso.
+na porta padrão 27017, mas caso queira mudar é só trocar a porta na pasta "config".
 
 ## 🚀 Tecnologias
 - Javascript
